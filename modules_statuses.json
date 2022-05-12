@@ -1,0 +1,7 @@
+{
+    "FishSelling": true,
+    "PaymentManagement": true,
+    "ShopingCart": true,
+    "BuyingManagement": true,
+    "ItemManagement": true
+}

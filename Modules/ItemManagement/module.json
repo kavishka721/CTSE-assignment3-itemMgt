@@ -1,0 +1,13 @@
+{
+    "name": "ItemManagement",
+    "alias": "itemmanagement",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ItemManagement\\Providers\\ItemManagementServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
